@@ -1,5 +1,7 @@
 #Tiled Maps: Green Taxis in NYC
 
+To get all of the files for this lesson, use the "Download Zip button over there --->"
+
 ###FILES USED: green_taxis.zip (be sure to unzip it!)
 
 - Download Tilemill from http://mapbox.com/tilemill
